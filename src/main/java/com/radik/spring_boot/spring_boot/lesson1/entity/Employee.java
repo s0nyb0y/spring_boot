@@ -1,4 +1,4 @@
-package com.radik.spring_boot.spring_boot.entity;
+package com.radik.spring_boot.spring_boot.lesson1.entity;
 
 import jakarta.persistence.*;
 

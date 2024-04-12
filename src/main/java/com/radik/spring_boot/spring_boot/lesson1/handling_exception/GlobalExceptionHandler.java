@@ -1,4 +1,4 @@
-package com.radik.spring_boot.spring_boot.handling_exception;
+package com.radik.spring_boot.spring_boot.lesson1.handling_exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

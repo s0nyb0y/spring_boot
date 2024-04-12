@@ -1,8 +1,8 @@
-package com.radik.spring_boot.spring_boot.controller;
+package com.radik.spring_boot.spring_boot.lesson1.controller;
 
-import com.radik.spring_boot.spring_boot.entity.Employee;
-import com.radik.spring_boot.spring_boot.handling_exception.NoSuchEmployeeException;
-import com.radik.spring_boot.spring_boot.service.EmployeeService;
+import com.radik.spring_boot.spring_boot.lesson1.entity.Employee;
+import com.radik.spring_boot.spring_boot.lesson1.handling_exception.NoSuchEmployeeException;
+import com.radik.spring_boot.spring_boot.lesson1.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

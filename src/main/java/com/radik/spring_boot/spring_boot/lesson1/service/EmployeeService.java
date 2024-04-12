@@ -1,6 +1,6 @@
-package com.radik.spring_boot.spring_boot.service;
+package com.radik.spring_boot.spring_boot.lesson1.service;
 
-import com.radik.spring_boot.spring_boot.entity.Employee;
+import com.radik.spring_boot.spring_boot.lesson1.entity.Employee;
 
 import java.util.List;
 

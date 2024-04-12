@@ -1,7 +1,7 @@
-package com.radik.spring_boot.spring_boot.service;
+package com.radik.spring_boot.spring_boot.lesson1.service;
 
-import com.radik.spring_boot.spring_boot.dao.EmployeeDAO;
-import com.radik.spring_boot.spring_boot.entity.Employee;
+import com.radik.spring_boot.spring_boot.lesson1.dao.EmployeeDAO;
+import com.radik.spring_boot.spring_boot.lesson1.entity.Employee;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

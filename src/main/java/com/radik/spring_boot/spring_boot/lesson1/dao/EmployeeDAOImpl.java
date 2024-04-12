@@ -1,6 +1,6 @@
-package com.radik.spring_boot.spring_boot.dao;
+package com.radik.spring_boot.spring_boot.lesson1.dao;
 
-import com.radik.spring_boot.spring_boot.entity.Employee;
+import com.radik.spring_boot.spring_boot.lesson1.entity.Employee;
 import jakarta.persistence.EntityManager;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
